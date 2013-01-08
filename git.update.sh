@@ -3,17 +3,13 @@
 
 ###############
 
-# Repository Setup 
-#Electrum
-
-
-
-
-##############
-
 # Updating repos
 cd ~/local.repository/electrum
 git fetch origin --verbose
 
 cd ~/local.repository/ledger
 git fetch origin --verbose
+
+cd ~/local.repository/bash.scripts/git.update
+git fetch origin --verbose
+
