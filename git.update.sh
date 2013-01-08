@@ -4,6 +4,7 @@
 ###############
 
 # Repository Setup 
+#Electrum
 
 
 
@@ -11,4 +12,8 @@
 ##############
 
 # Updating repos
+cd ~/local.repository/electrum
+git fetch origin --verbose
 
+cd ~/local.repository/ledger
+git fetch origin --verbose
