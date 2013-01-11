@@ -13,6 +13,9 @@ git fetch origin --verbose
 cd ~/local.repository/bash.scripts/git.update
 git fetch origin --verbose
 
+cd ~/local.repository/bash.scripts/git.update.remote.repos
+git fetch origin --verbose
+
 cd ~/local.repository/bash.scripts/system.update
 git fetch origin --verbose
 
