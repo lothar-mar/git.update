@@ -3,13 +3,7 @@
 
 ###############
 
-# Updating repos
-cd ~/local.repository/electrum
-git fetch origin --verbose
-
-cd ~/local.repository/ledger
-git fetch origin --verbose
-
+# Updating repos (lothar_m's repos)
 cd ~/local.repository/bash.scripts/git.update
 git fetch origin --verbose
 
@@ -21,3 +15,14 @@ git fetch origin --verbose
 
 cd ~/local.repository/bash.scripts/SpiderOak.maintenance
 git fetch origin --verbose
+
+
+
+# Updating repos (others)
+cd ~/local.repository/electrum
+git fetch origin --verbose
+
+cd ~/local.repository/ledger
+git fetch origin --verbose
+
+
