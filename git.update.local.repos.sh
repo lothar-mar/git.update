@@ -16,7 +16,8 @@ git fetch origin --verbose
 cd ~/local.repository/bash.scripts/SpiderOak.maintenance
 git fetch origin --verbose
 
-
+cd ~/local.repository/bash.scripts/get.quotes.yahoo
+git fetch origin --verbose
 
 # Updating repos (others)
 cd ~/local.repository/electrum
