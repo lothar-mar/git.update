@@ -26,4 +26,5 @@ git fetch origin --verbose
 cd ~/local.repository/ledger
 git fetch origin --verbose
 
-
+cd ~/local.repository/dotfiles
+git fetch origin --verbose
