@@ -16,6 +16,9 @@ git fetch origin --verbose
 cd ~/local.repository/bash.scripts/vpn.scripts
 git fetch origin --verbose
 
+cd ~/local.repository/abs
+git fetch origin --verbose
+
 cd ~/local.repository/dotfiles
 git fetch origin --verbose
 
